@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**Neilrw86/Neilrw86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Neil, a Chief Architect for Cloud ☁️
 
-Here are some ideas to get you started:
+![GitHub followers](https://img.shields.io/github/followers/Neilrw86?label=Follow&style=social)
+![GitHub stars](https://img.shields.io/github/stars/Neilrw86?label=Stars&style=social)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+
+- 🔭 I’m currently working on cloud architecture and solutions.
+- 🌱 I’m currently learning advanced cloud security and automation.
+- 👯 I’m looking to collaborate on cloud-native projects.
+- 💬 Ask me about cloud architecture, DevOps, and automation.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love hiking and exploring new technologies.
+
+### GitHub Stats
+
+![Neilrw86's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neilrw86&show_icons=true&theme=radical)
