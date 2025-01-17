@@ -6,7 +6,6 @@ I'm Neil, a Chief Architect for Cloud ☁️
 ![GitHub stars](https://img.shields.io/github/stars/Neilrw86?label=Stars&style=social)
 ![Profile Views](https://komarev.com/ghpvc/?username=Neilrw86&color=blueviolet)
 
-![Giphy](giphy.gif)
 
 ### About Me
 
@@ -34,6 +33,9 @@ I'm Neil, a Chief Architect for Cloud ☁️
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neilrw86&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Neilrw86&theme=radical)
 ![trophy](https://github-profile-trophy.vercel.app/?username=Neilrw86&theme=radical)
+
+
+![Giphy](giphy.gif)
 
 ### Contribution Graph
 
