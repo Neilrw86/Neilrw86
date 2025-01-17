@@ -39,4 +39,5 @@ I'm Neil, a Chief Architect for Cloud ☁️
 
 ### Contribution Graph
 
-![Neilrw86's Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Neilrw86&theme=radical)
+
+[![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Neilrw86&theme=vue)](https://github.com/Neilrw86/github-readme-activity-graph)
