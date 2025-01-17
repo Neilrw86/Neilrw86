@@ -14,6 +14,7 @@ I'm Neil, a Chief Architect for Cloud ☁️
 - 💬 Ask me about cloud architecture, DevOps, and automation.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love hiking and exploring new technologies.
+- 🏠 I spend a lot of time on my cloud-native homelab.
 
 ### Languages and Tools
 
@@ -22,6 +23,8 @@ I'm Neil, a Chief Architect for Cloud ☁️
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
+![Home Assistant](https://img.shields.io/badge/-Home%20Assistant-41BDF5?style=flat&logo=home-assistant&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat&logo=raspberry-pi&logoColor=white)
 
 ### GitHub Stats
 
