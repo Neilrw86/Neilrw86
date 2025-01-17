@@ -39,4 +39,4 @@ I'm Neil, a Chief Architect for Cloud ☁️
 
 ### Contribution Graph
 
-![Neilrw86's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Neilrw86&theme=radical)
+![Neilrw86's Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Neilrw86&theme=radical)
