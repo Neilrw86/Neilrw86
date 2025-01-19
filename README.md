@@ -21,11 +21,17 @@ I'm Neil, a Chief Architect for Cloud ☁️
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![CNCF](https://img.shields.io/badge/-CNCF-326CE5?style=flat&logo=cncf&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
 ![Home Assistant](https://img.shields.io/badge/-Home%20Assistant-41BDF5?style=flat&logo=home-assistant&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat&logo=raspberry-pi&logoColor=white)
+
+
+![Giphy](giphy.gif)
 
 ### GitHub Stats
 
@@ -34,10 +40,6 @@ I'm Neil, a Chief Architect for Cloud ☁️
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Neilrw86&theme=radical)
 ![trophy](https://github-profile-trophy.vercel.app/?username=Neilrw86&theme=radical)
 
-
-![Giphy](giphy.gif)
-
 ### Contribution Graph
-
 
 [![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Neilrw86&theme=vue)](https://github.com/Neilrw86/github-readme-activity-graph)
