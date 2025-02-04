@@ -6,6 +6,7 @@ I'm Neil, a Chief Architect for Cloud ☁️
 ![GitHub stars](https://img.shields.io/github/stars/Neilrw86?label=Stars&style=social)
 ![Profile Views](https://komarev.com/ghpvc/?username=Neilrw86&color=blueviolet)
 
+![Giphy](giphy.gif)
 
 ### About Me
 
@@ -16,6 +17,10 @@ I'm Neil, a Chief Architect for Cloud ☁️
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love hiking and exploring new technologies.
 - 🏠 I spend a lot of time on my cloud-native homelab.
+
+### Current Projects
+
+- 🌐 OpenWebUI/Ollama on TuringPi2 with Microk8s
 
 ### Languages and Tools
 
@@ -29,9 +34,6 @@ I'm Neil, a Chief Architect for Cloud ☁️
 ![Home Assistant](https://img.shields.io/badge/-Home%20Assistant-41BDF5?style=flat&logo=home-assistant&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat&logo=raspberry-pi&logoColor=white)
 
-
-![Giphy](giphy.gif)
-
 ### GitHub Stats
 
 ![Neilrw86's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neilrw86&show_icons=true&theme=radical)
@@ -41,4 +43,4 @@ I'm Neil, a Chief Architect for Cloud ☁️
 
 ### Contribution Graph
 
-[![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Neilrw86&theme=vue)](https://github.com/Neilrw86/github-readme-activity-graph)
+![Neilrw86's Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Neilrw86&theme=radical)
