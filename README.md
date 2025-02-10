@@ -14,13 +14,14 @@ I'm Neil, a Chief Architect for Cloud ☁️
 - 🌱 I’m currently learning advanced cloud security and automation.
 - 👯 I’m looking to collaborate on cloud-native projects.
 - 💬 Ask me about cloud architecture, DevOps, and automation.
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love hiking and exploring new technologies.
 - 🏠 I spend a lot of time on my cloud-native homelab.
 
 ### Current Projects
 
 - 🌐 OpenWebUI/Ollama on TuringPi2 with Microk8s
+- 🐳 Migrating docker-compose homelab files into K8s/ingress 
+
 
 ### Languages and Tools
 
@@ -33,6 +34,7 @@ I'm Neil, a Chief Architect for Cloud ☁️
 ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
 ![Home Assistant](https://img.shields.io/badge/-Home%20Assistant-41BDF5?style=flat&logo=home-assistant&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat&logo=raspberry-pi&logoColor=white)
+![Turing Pi](https://img.shields.io/badge/-Turing%20Pi-FF6F00?style=flat&logo=turing-pi&logoColor=white)
 
 ### GitHub Stats
 
@@ -40,7 +42,3 @@ I'm Neil, a Chief Architect for Cloud ☁️
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neilrw86&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Neilrw86&theme=radical)
 ![trophy](https://github-profile-trophy.vercel.app/?username=Neilrw86&theme=radical)
-
-### Contribution Graph
-
-![Neilrw86's Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Neilrw86&theme=radical)
