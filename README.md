@@ -20,6 +20,8 @@ I'm Neil, a Chief Architect for Cloud ☁️
 ### Current Projects
 
 - 🌐 OpenWebUI/Ollama on TuringPi2 with Microk8s
+- 🐳 Migrating docker-compose homelab files into K8s/ingress 
+
 
 ### Languages and Tools
 
