@@ -21,7 +21,7 @@ I'm Neil, a Chief Architect for Cloud ☁️
 
 - 🌐 OpenWebUI/Ollama on TuringPi2 with Microk8s
 - 🐳 Migrating docker-compose homelab files into K8s/ingress 
-
+- ![OpenGitOps](https://img.shields.io/badge/-OpenGitOps-326CE5?style=flat&logo=opengitops&logoColor=white) Looking at emerging gitops tooling!
 
 ### Languages and Tools
 
