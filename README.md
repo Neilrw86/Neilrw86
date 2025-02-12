@@ -48,3 +48,5 @@ I'm Neil, a Chief Architect for Cloud ☁️
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neilrw86&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Neilrw86&theme=radical)
 ![trophy](https://github-profile-trophy.vercel.app/?username=Neilrw86&theme=radical)
+
+[![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Neilrw86&theme=vue)](https://github.com/Neilrw86/github-readme-activity-graph)
