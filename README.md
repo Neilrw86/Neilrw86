@@ -10,12 +10,18 @@ I'm Neil, a Chief Architect for Cloud ☁️
 
 ### About Me
 
-- 🔭 I’m currently working on cloud architecture and solutions.
-- 🌱 I’m currently learning advanced cloud security and automation.
-- 👯 I’m looking to collaborate on cloud-native projects.
-- 💬 Ask me about cloud architecture, DevOps, and automation.
-- ⚡ Fun fact: I love hiking and exploring new technologies.
-- 🏠 I spend a lot of time on my cloud-native homelab.
+As a seasoned cloud architect, I help organizations design and implement scalable, 
+secure, and efficient cloud solutions. With expertise in AWS, Azure, GCP, and 
+Kubernetes, I've worked on various projects, from small startups to large enterprises.
+
+### Expertise
+
+* Cloud Architecture and Design
+* DevOps and Automation
+* Security and Compliance
+* Containerization (Docker) and Orchestration (Kubernetes)
+* Infrastructure as Code (Terraform)
+
 
 ### Current Projects
 
@@ -29,7 +35,7 @@ I'm Neil, a Chief Architect for Cloud ☁️
 - ![Portainer](https://img.shields.io/badge/-Portainer-13BEF9?style=flat&logo=portainer&logoColor=white)
 - ![OpenTelemetry](https://img.shields.io/badge/-OpenTelemetry-7B3FE4?style=flat&logo=opentelemetry&logoColor=white)
 
-### Languages and Tools
+### Tools & Platforms
 
 ![CNCF](https://img.shields.io/badge/-CNCF-326CE5?style=flat&logo=cncf&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
