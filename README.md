@@ -28,13 +28,14 @@ Kubernetes, I've worked on various projects, from small startups to large enterp
 - 🌐 OpenWebUI/Ollama on TuringPi2 with Microk8s
 - 🐳 Migrating docker-compose homelab files into K8s/ingress 
 - ![OpenGitOps](https://img.shields.io/badge/-OpenGitOps-326CE5?style=flat&logo=opengitops&logoColor=white) Looking at emerging gitops tooling!
+- ![Trivy](https://img.shields.io/badge/-Trivy-326CE5?style=flat&logo=trivy&logoColor=white) Container Scanning and AppSec with Trivy & jit.io
+
 
 ### Projects Recently Contributed To
 
 - ![AnywhereLLM](https://img.shields.io/badge/-AnywhereLLM-000000?style=flat&logo=anywhereLLM&logoColor=white)
 - ![Portainer](https://img.shields.io/badge/-Portainer-13BEF9?style=flat&logo=portainer&logoColor=white)
 - ![OpenTelemetry](https://img.shields.io/badge/-OpenTelemetry-7B3FE4?style=flat&logo=opentelemetry&logoColor=white)
-- ![Trivy](https://img.shields.io/badge/-Trivy-326CE5?style=flat&logo=trivy&logoColor=white) Container Scanning and AppSec with Trivy & jit.io
 
 ### Tools & Platforms
 
