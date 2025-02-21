@@ -12,7 +12,7 @@ I'm Neil, a Chief Architect for Cloud ☁️
 
 As a seasoned cloud architect, I help organizations design and implement scalable, 
 secure, and efficient cloud solutions. With expertise in AWS, Azure, GCP, and 
-Kubernetes, I've worked on various projects, from small startups to large enterprises.
+Kubernetes, I've worked on various projects, from small startups to large enterprises. 
 
 ### Expertise
 
@@ -20,6 +20,7 @@ Kubernetes, I've worked on various projects, from small startups to large enterp
 * DevOps and Automation
 * Security and Compliance
 * Containerization (Docker) and Orchestration (Kubernetes)
+* GitOps Implementation 
 * Infrastructure as Code (Terraform)
 
 
