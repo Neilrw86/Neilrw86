@@ -6,7 +6,6 @@ I'm Neil, a Chief Architect for Cloud ☁️
 ![GitHub stars](https://img.shields.io/github/stars/Neilrw86?label=Stars&style=social)
 ![Profile Views](https://komarev.com/ghpvc/?username=Neilrw86&color=blueviolet)
 
-![Giphy](giphy.gif)
 
 ### About Me
 
